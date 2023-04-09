@@ -44,3 +44,15 @@ p, li {
     border-right: 1px #A5B4FC solid;
     border-bottom: 1px #A5B4FC solid;
 }
+
+a:hover {
+    text-decoration: underline;
+}
+
+a:hover img {
+    opacity: 0.5;
+}
+
+.cta:hover {
+    background: linear-gradient(#696484, #8788BA);
+}
