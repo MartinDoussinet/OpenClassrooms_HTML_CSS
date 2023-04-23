@@ -78,3 +78,40 @@ section {
     width: 50%;
     margin: auto;
 }
+
+nav, footer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.accueil_photos {
+    background-color: white;
+    padding: 30px;
+    margin: 30px;
+  }
+
+.accueil_photos h2 {
+color: #242424;
+text-align: center;
+margin-bottom: 80px;
+}
+
+.accueil_photos div {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    justify-content: space-around;
+    margin-bottom: 15px;
+
+}
+
+.accueil_introduction {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 50%;
+    align-items: center;
+    margin: auto;
+}
