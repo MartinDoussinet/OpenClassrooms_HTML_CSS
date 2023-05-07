@@ -2,6 +2,8 @@
   border-right: 1px solid #8e86b5;
   border-bottom: 1px solid #8e86b5;
   padding: 50px;
+  width: 50%;
+  margin: auto;
   margin-bottom: 80px;
 }
 
@@ -21,10 +23,10 @@
   margin: auto;
 }
 
-
 table {
   color: white;
   text-align: center;
+  width: 100%;
   border-collapse: collapse;
 }
 
